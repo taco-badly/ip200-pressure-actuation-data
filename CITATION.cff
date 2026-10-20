@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the versioned data archive and the associated manuscript when using these records."
+type: dataset
+title: "IP200 steam-pressure control pressure and actuation data"
+authors:
+  - family-names: Wen
+    given-names: Zhengwen
+    affiliation: Harbin Engineering University
+  - family-names: Peng
+    given-names: Minjun
+    affiliation: Harbin Engineering University
+abstract: "Recorded RELAP5-coupled controller-tuning evaluations, independent load-transient responses, figure source data and numerical checks supporting the pressure–actuation trade-off assessment."
+keywords:
+  - IP200
+  - RELAP5
+  - steam-pressure control
+  - Bayesian optimization
+  - PI control
+version: "1.0.0"
+date-released: "2026-10-20"
+repository-code: "https://github.com/taco-badly/ip200-pressure-actuation-data"
+url: "https://github.com/taco-badly/ip200-pressure-actuation-data/tree/v1.0.0"
